@@ -168,12 +168,16 @@ ORDER BY coffee_consumers DESC;
 
 ---
 
-## 📬 Contact
+## 📄 License
 
-For feedback or collaboration, reach out:
-
-**Your Name**  
-✉️ your.email@example.com  
-🌐 your-portfolio.com
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it with attribution.
 
 ---
+
+## 👨‍💻 Author
+
+Made by [@psyccho00](https://github.com/psyccho00)
+
+If you liked this, please ⭐ the repo!
+
+*Happy Analyzing! 🍕*

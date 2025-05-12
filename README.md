@@ -161,13 +161,6 @@ ORDER BY coffee_consumers DESC;
 
 ---
 
-## 📁 Files Included
-
-- `monday_coffee.sql`: Full SQL script including table definitions and sample queries.
-- `README.md`: This file, explaining the entire project in detail.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it with attribution.
